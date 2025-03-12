@@ -39,4 +39,3 @@ This project analyzes the Black Friday Sales dataset using the Seaborn library f
 
 * Customer preferences and spending behavior.
 
-* Example Visualizations
